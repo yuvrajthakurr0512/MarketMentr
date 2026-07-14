@@ -239,7 +239,7 @@ img,svg{display:block;max-width:100%;}
   flex-direction:row !important;
   flex-wrap:nowrap !important;
   align-items:center !important;
-  gap:24px !important;
+  gap:4px !important;
   width:max-content !important;
 }
 .image-marquee-track img{
