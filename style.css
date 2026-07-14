@@ -234,3 +234,17 @@ img,svg{display:block;max-width:100%;}
   #needle{animation:none;}
   html{scroll-behavior:auto;}
 }
+.image-marquee-track{
+  display:flex !important;
+  flex-direction:row !important;
+  flex-wrap:nowrap !important;
+  align-items:center !important;
+  gap:24px !important;
+  width:max-content !important;
+}
+.image-marquee-track img{
+  height:100px !important;
+  width:auto !important;
+  flex-shrink:0 !important;
+  border-radius:12px;
+}
